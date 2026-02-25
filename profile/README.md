@@ -4,4 +4,6 @@ For information on our force field releases, go to https://openforcefield.org/fo
 
 For information about the Open Force Field Consortium and Initiative, see https://openforcefield.org
 
+For guidance on how to cite our software and force fields, see https://openforcefield.org/science/how-to-cite/
+
 For general questions and high-level discussions, please chime in at https://github.com/orgs/openforcefield/discussions
